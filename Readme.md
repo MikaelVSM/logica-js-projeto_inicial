@@ -1,1 +1,1 @@
-Primeiro projeto Curso Oracle One
+Primeiro projeto Curso Oracle One.
